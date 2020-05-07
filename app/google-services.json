@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46761528510",
+    "firebase_url": "https://dropit-bc78d.firebaseio.com",
+    "project_id": "dropit-bc78d",
+    "storage_bucket": "dropit-bc78d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46761528510:android:76ff9e82d64598977f62ef",
+        "android_client_info": {
+          "package_name": "com.example.dropit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46761528510-l0964ensdq72enrf26q6re9eip17as4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dropit",
+            "certificate_hash": "18eca2ca00c1ff71b4ff8648dfa01c3da8cb06e5"
+          }
+        },
+        {
+          "client_id": "46761528510-p7agljg2g53tt628kjo69b9v6maas3rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiwTTo3c69VqF109j3rHApIq3tAU7hi_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46761528510-p7agljg2g53tt628kjo69b9v6maas3rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
